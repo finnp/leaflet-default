@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/finnp/leaflet-default/issues"
   },
-  "homepage": "https://github.com/finnp/leaflet-default"
+  "homepage": "https://github.com/finnp/leaflet-default",
+  "dependencies": {
+    "leaflet": "^0.7.3",
+    "leaflet-map": "^0.2.1"
+  }
 }
